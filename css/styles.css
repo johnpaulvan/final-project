@@ -6,6 +6,9 @@
     width:150px;
     display:inline-block;
 }
+.top-nav{
+    background-color:#29abe2;
+}
 .nav-pills{
     float:right;
     background-color:transparent;
@@ -14,7 +17,7 @@
 }
 .jumbotron{
     height:600px;
-    background-image:url(../img/jumbo.jpg);
+    background-image:url(../img/view.jpg);
     background-size:cover;
     background-position:center bottom;
 
@@ -36,7 +39,7 @@
     border:2px solid white;
 }
 .hello{
-    
+    text-align: center;
 }
 .train-pic{
     height:400px;
