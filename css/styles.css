@@ -15,6 +15,10 @@
     margin-top:70px;
     margin-left:10px;
 }
+.pic_row{
+    background-color:gray;
+
+}
 .jumbotron{
     height:600px;
     background-image:url(../img/view.jpg);
@@ -36,7 +40,6 @@
     flex-direction:column;
     width:50%;
     background-color:transparent;
-    border:2px solid white;
 }
 .hello{
     text-align: center;
@@ -51,10 +54,16 @@
   -o-transform: rotate(90deg);
   transform: rotate(90deg);
 }
+.back-img{
+    background-color: gray;
+}
 .title{
     text-align: center;
 }
-
+.copy{
+    margin-top:70px;
+    text-align:center;
+}
 footer{
     height:100px;
     width:100%;
